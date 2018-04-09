@@ -1,0 +1,54 @@
+@media screen and (min-width:1280px) {
+  body{
+    background-color: #F0E6EF;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  #cap ul{
+    margin: 0 auto;
+    background: linear-gradient(#F0A6CA, #9C89B8);
+    text-align: center;
+    height: 35px;
+    padding-top: 10px;
+  }
+
+  #cap ul li{
+    display: inline;
+  }
+
+  #cos{
+    background-color: #F0E6EF;
+    text-align: center;
+    overflow: hidden;
+    width: 71.5%;
+    float: left;
+  }
+
+  #menu{
+    background-color: #EFF7FB;
+    text-align: center;
+    overflow: hidden;
+    width: 26%;
+    float: right;
+    padding:0.5% 2% 0.5% 0.5%;
+  }
+
+  .not{
+    height: 150px;
+    width: 29%;
+    padding: 0px;
+    background: linear-gradient(#EFC3E6, #F0A6CA);
+    margin: 2%;
+    float: left;
+  }
+
+  .op{
+    float:none;
+    height: 150px;
+    width: 95%;
+    padding: 0;
+    background: linear-gradient(#B8BEDD,#9C89B8);
+
+  }
+  }

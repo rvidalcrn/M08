@@ -1,0 +1,54 @@
+@media screen and (min-width:1280px) {
+  body{
+    background-color: pink;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  #cap ul{
+    margin: 0 auto;
+    background-color: pink;
+    text-align: center;
+    height: 35px;
+    padding-top: 10px;
+  }
+
+  #cap ul li{
+    display: inline;
+  }
+
+  #cos{
+    background-color: blue;
+    text-align: center;
+    overflow: hidden;
+    width: 71.5%;
+    float: left;
+  }
+
+  #menu{
+    background-color: purple;
+    text-align: center;
+    overflow: hidden;
+    width: 26%;
+    float: right;
+    padding:0.5% 2% 0.5% 0.5%;
+  }
+
+  .not{
+    height: 150px;
+    width: 29%;
+    padding: 0px;
+    background-color: rgb(89, 228, 210);
+    margin: 2%;
+    float: left;
+  }
+
+  .op{
+    float:none;
+    height: 150px;
+    width: 95%;
+    padding: 0;
+    background-color: rgb(89, 228, 210);
+
+  }
+  }
