@@ -1,0 +1,57 @@
+#principio{
+  height: 300px;
+  background-color: #CC9;
+  width: 920px;
+  margin: auto;
+}
+h5{
+  text-align: center;
+  padding-top: 15px;
+  font-family: times;
+}
+h3{
+  text-align: center;
+  font-family: times;
+}
+h1{
+  text-align: center;
+  font-family: times;
+}
+#contenido{
+  background-color: #999;
+  width: 920px;
+  margin: 0 auto;
+  height: 1124px;
+  padding: 1px;
+}
+.grup{
+  height: 150px;
+  width: 220px;
+  background-color: #CCC;
+  margin: 5px;
+  float: left;
+}
+.grupp{
+  height: 150px;
+  width: 220px;
+  background-color: #966;
+  margin: 5px;
+  float: left;
+}
+p{
+  text-align: center;
+}
+h4{
+  padding-left: 4px;
+  padding-bottom: 4px;
+}
+img{
+  padding-left: 75px;
+}
+#peu{
+  width: 920px;
+  height: 40px;
+  background-color: #CC9;
+  margin: auto;
+  padding: 1px;
+}
